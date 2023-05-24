@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (<a href="#">Solution</a>)
-- Live Site URL: (<a href="#">Live site</a>)
+- Solution URL: (<a href="https://github.com/Medido1/Frontend-Mentor-Order-summary-card">Solution</a>)
+- Live Site URL: (<a href="https://medido1.github.io/Frontend-Mentor-Order-summary-card/">Live site</a>)
 
 ## My process
 
